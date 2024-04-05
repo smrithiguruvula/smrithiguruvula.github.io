@@ -17,13 +17,13 @@
 		background-attachment: fixed,								fixed,														fixed;
 	}
 
-		/*#wrapper.fade-in:before {
+		#wrapper.fade-in:before {
 			display: none;
-		}*/
+		}
 
 /* Intro */
 
-	/*body.is-preload #intro {
+	body.is-preload #intro {
 		opacity: 1;
 	}
 
@@ -33,4 +33,4 @@
 			-ms-transform: none;
 			transform: none;
 			opacity: 1;
-		}*/
+		}
